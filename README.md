@@ -28,6 +28,6 @@ Antes de iniciar os ataques, realizamos um escaneamento de portas para identific
 ftp
 verifica quais portas estão abertas dos serviços 
 <img src="Imagens/Captura%20de%20tela%202026-11-14%20184005.png" alt="Portas vulneráveis escaneadas" width="700">
-agora estou acessando ftp
-<img src="<img src="Imagens/Captura%20de%20tela%202026-11-14%20184005.png" alt="Portas vulneráveis escaneadas" width="700">" alt=acessado ftp" width="700">
+agora estou acessando ftp:usando o comando ftp 192.168.56.102
+
 
