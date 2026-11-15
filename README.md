@@ -9,19 +9,23 @@ Este repositório documenta a realização do desafio prático da **DIO**, cujo 
 Para a execução segura e controlada dos testes, o ambiente foi isolado utilizando o **Oracle VM VirtualBox** com duas máquinas virtuais conectadas através de uma rede interna (Host-Only):
 
 * **Atacante (Attacker):** Kali Linux 
-* **Alvo (Target):** Metasploitable 2 
+* **Alvo (Target):** Metasploitable 2 192.168.56.102
   * *O Metasploitable 2 já possui diversos serviços desatualizados e intencionalmente vulneráveis (como FTP, SSH, Telnet, SMB e aplicações web como o DVWA).*
 
 ---
 
-## 🔍 2. Fases dos Testes e Execução
+
 
 ### Fase 1: Uso do Ping
+primeiro pinguei metasploitable no kali linux
 ![Ping do Teste](Imagens/Captura%20de%20tela%202026-11-14%20183514.png)
 
 
 Reconhecimento (Nmap)
 Antes de iniciar os ataques, realizamos um escaneamento de portas para identificar quais serviços estavam ativos no alvo:
 
-```bash
-nmap -sV -p- 192.168.56.102
+## 🔍 2. Fases dos Testes e Execução
+ftp
+verifica quais portas estão abertas dos serviços 
+![verifica as portas vuneráveis ](Imagens/)
+
