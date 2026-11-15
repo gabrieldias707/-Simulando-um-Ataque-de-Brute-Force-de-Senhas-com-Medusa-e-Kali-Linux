@@ -17,7 +17,7 @@ Para a execução segura e controlada dos testes, o ambiente foi isolado utiliza
 ## 🔍 2. Fases dos Testes e Execução
 
 ### Fase 1: Uso do Ping
-![Ping](Imagens/Captura de tela 2026-11-14 183514)
+![Ping](Imagens/Captura de tela 2026-11-14 183514.png)
 
 
 Reconhecimento (Nmap)
