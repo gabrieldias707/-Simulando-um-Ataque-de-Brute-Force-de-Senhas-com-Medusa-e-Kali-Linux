@@ -27,5 +27,5 @@ Antes de iniciar os ataques, realizamos um escaneamento de portas para identific
 ## 🔍 2. Fases dos Testes e Execução
 ftp
 verifica quais portas estão abertas dos serviços 
-![verifica as portas vuneráveis ](Imagens/)
+![verifica as portas vuneráveis ](Imagens/Captura de tela 2026-11-14 184005.png)
 
