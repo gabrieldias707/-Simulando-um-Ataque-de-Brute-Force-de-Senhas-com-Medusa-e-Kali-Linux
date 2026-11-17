@@ -2,7 +2,6 @@
 
 Este repositório documenta a realização do desafio prático da **DIO**, cujo objetivo é explorar conceitos de segurança ofensiva em ambiente controlado, simulando cenários de testes de intrusão (Pentest) para compreender vulnerabilidades de autenticação e suas respectivas formas de mitigação.
 
----
 
 ## 🛠️ 1. Configuração do Ambiente de Laboratório
 
