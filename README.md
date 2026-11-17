@@ -11,7 +11,7 @@ Para a execução segura e controlada dos testes, o ambiente foi isolado utiliza
 * **Alvo (Target):** Metasploitable 2 192.168.56.102
   * *O Metasploitable 2 já possui diversos serviços desatualizados e intencionalmente vulneráveis (como FTP,SMB e aplicações web como o DVWA).*
 
-![pingteste]\(imagens/configurando o ambiente virtual/conferindo o ip no metaplot 2.png)
+
 
 
 ### Fase 1: Uso do Ping
@@ -20,7 +20,7 @@ primeiro pinguei metasploitable no kali linux
 
 Veja abaixo como realizar o teste de conexão:
 
-
+![pingteste]\(imagens/configurando o ambiente virtual/conferindo o ip no metaplot 2.png)
 
 Reconhecimento (Nmap)
 Antes de iniciar os ataques, realizamos um escaneamento de portas para identificar quais serviços estavam ativos no alvo:
