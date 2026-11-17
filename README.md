@@ -24,6 +24,6 @@ Veja abaixo como realizar o teste de conexão:
 
 Reconhecimento (Nmap)
 Antes de iniciar os ataques, realizamos um escaneamento de portas para identificar quais serviços estavam ativos no alvo:
-
+imagens/nmap/executando nmap.png
 ## 🔍 2. Fases dos Testes e Execução
 ftp
