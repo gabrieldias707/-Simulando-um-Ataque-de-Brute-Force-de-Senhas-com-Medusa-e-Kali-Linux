@@ -19,7 +19,7 @@ Para a execução segura e controlada dos testes, o ambiente foi isolado utiliza
 ### Fase 1: Uso do Ping
 primeiro pinguei metasploitable no kali linux
 
-![Ping do Teste](Imagens/configurando%20o%20anbiente%20virtual/ping-teste.png)
+
 Reconhecimento (Nmap)
 Antes de iniciar os ataques, realizamos um escaneamento de portas para identificar quais serviços estavam ativos no alvo:
 
