@@ -10,7 +10,7 @@ Para a execução segura e controlada dos testes, o ambiente foi isolado utiliza
 
 * **Atacante (Attacker):** Kali Linux 
 * **Alvo (Target):** Metasploitable 2 192.168.56.102
-  * *O Metasploitable 2 já possui diversos serviços desatualizados e intencionalmente vulneráveis (como FTP, SSH, Telnet, SMB e aplicações web como o DVWA).*
+  * *O Metasploitable 2 já possui diversos serviços desatualizados e intencionalmente vulneráveis (como FTP,SMB e aplicações web como o DVWA).*
 
 ---
 
