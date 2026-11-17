@@ -20,7 +20,7 @@ primeiro pinguei metasploitable no kali linux
 
 Veja abaixo como realizar o teste de conexão:
 
-<img src="Imagens/configurando-ambiente-virtual/ping-teste.png" alt="Ping do Teste" width="600">
+<img src="Imagens/configurando anbiente virtual/ping-teste.png" alt="Ping do Teste" width="600">
 
 Reconhecimento (Nmap)
 Antes de iniciar os ataques, realizamos um escaneamento de portas para identificar quais serviços estavam ativos no alvo:
