@@ -56,7 +56,23 @@ login com sucesso
 
 DVWA:
 
-AGORA 
+AGORA vamos acessar dvwa abrar o navegador no kali digite este link
 ![dvwa](imagens/dvwa/dvwa%20link.png)
+
+quando tentamos logar ele falha
 ![login failed](imagens/dvwa/login%20failed.png)
+
+aperta f12 no teclado vai abrir o inspecionar do navegador
 ![f12](imagens/dvwa/f12%20em%20network.png)
+
+quando tentamos acessar o inspecionar mostrar o que esta recebendo resposta 
+![messagem de erro](imagens/dvwa/quando%20tentamos%20acessar%20de%20qual%20quer%20forma%20o%20erro%20de%20login.png)
+
+agora no terminal vamos usar o medusa pra descobrir o usuario correto
+![medusa](imagens/dvwa/usando%20o%20medusa%20para%20encontrar%20o%20login%20e%20senha%20para%20dvwa.png)
+descobrimos que usuário correto 
+![descobrindo usuario correto](imagens/dvwa/senha%20destacada%20entrada%20para%20acessa%20o%20dvwa.png)
+voltando no navegador conseguimos acessar o site 
+![acesso](imagens/dvwa/acesso%20ao%20dvwa.png)
+
+
