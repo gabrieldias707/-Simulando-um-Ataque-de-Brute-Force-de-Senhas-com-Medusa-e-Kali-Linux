@@ -30,3 +30,11 @@ usando o comando para saber quais portas estão abertas
 ## 🔍 2. Fases dos Testes e Execução
 ftp primeiro vamos usar o comando ftp mais o ip 
 ![comando ftp](imagens/ftp/caminho%20para%20o%20ftp.png)
+
+aqui esta o ftp mas não conseguimos entra pois não sabemos ainda login para o acessalo
+![dentrodoftp](imagens/ftp/ftp.png)
+
+agora criaremos usuarios e senhas para ftp
+![]()
+
+![]()
