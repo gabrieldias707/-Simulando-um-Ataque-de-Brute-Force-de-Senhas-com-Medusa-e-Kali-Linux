@@ -25,6 +25,8 @@ aqui no inet 19.168.56.102 é o ip que vamos usar para o teste
 
 Reconhecimento (Nmap)
 Antes de iniciar os ataques, realizamos um escaneamento de portas para identificar quais serviços estavam ativos no alvo:
-usando o comando
+usando o comando para saber quais portas estão abertas 
+![Nmap](imagens/nmap/executando%20nmap.png)
 ## 🔍 2. Fases dos Testes e Execução
-ftp
+ftp primeiro vamos usar o comando ftp mais o ip 
+![comando ftp](imagens/ftp/caminho%20para%20o%20ftp.png)
