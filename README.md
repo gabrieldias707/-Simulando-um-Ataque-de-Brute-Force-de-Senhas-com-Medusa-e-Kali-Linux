@@ -15,15 +15,16 @@ Para a execução segura e controlada dos testes, o ambiente foi isolado utiliza
 
 
 ### Fase 1: Uso do Ping
-primeiro pinguei metasploitable no kali linux
+primeiro pinguei metasploitable no kali linux se esta funcionado
+![ping](imagens/configurando%20o%20ambiente%20virtual/ping-teste.png)
 ## Configurando o Ambiente Virtual
 
 Veja abaixo como realizar o teste de conexão:
-
-![pingteste]\(imagens/configurando o ambiente virtual/conferindo o ip no metaplot 2.png)
+aqui no inet 19.168.56.102 é o ip que vamos usar para o teste
+![mataplot](imagens/configurando%20o%20ambiente%20virtual/conferindo%20o%20ip%20no%20metaplot%202.png)
 
 Reconhecimento (Nmap)
 Antes de iniciar os ataques, realizamos um escaneamento de portas para identificar quais serviços estavam ativos no alvo:
-imagens/nmap/executando nmap.png
+usando o comando
 ## 🔍 2. Fases dos Testes e Execução
 ftp
