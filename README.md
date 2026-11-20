@@ -44,5 +44,11 @@ agora criaremos usuarios e senhas para ftp
 ![criando senha](imagens/ftp/criando%20as%20senhas%20de%20usuarios%20para%20ftp.png)
 
 agora com o usuarios e senhas criado vamos usar o medusa
+![medusa](imagens/ftp/usando%20o%20medusa%20para%20encontra%20uma%20falha.png)
 
+aqui medusa esta verificando um brecha de login
 ![medusa](imagens/ftp/rodando%20o%20medusa.png)
+![medusa](imagens/ftp/Captura%20de%20tela%202026-11-15%20122155.png)
+agora voltamos para ftp
+![acesso](imagens/ftp/acesso%20ao%20ftp%20com%20sucesso.png)
+
