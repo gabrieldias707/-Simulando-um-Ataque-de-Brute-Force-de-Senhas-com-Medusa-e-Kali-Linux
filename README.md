@@ -31,10 +31,18 @@ usando o comando para saber quais portas estão abertas
 ftp primeiro vamos usar o comando ftp mais o ip 
 ![comando ftp](imagens/ftp/caminho%20para%20o%20ftp.png)
 
+
 aqui esta o ftp mas não conseguimos entra pois não sabemos ainda login para o acessalo
+
 ![dentrodoftp](imagens/ftp/ftp.png)
 
-agora criaremos usuarios e senhas para ftp
-![]()
 
-![]()
+agora criaremos usuarios e senhas para ftp
+
+![criando usuarios](imagens/ftp/criando%20usuarios%20para%20ftp.png)
+
+![criando senha](imagens/ftp/criando%20as%20senhas%20de%20usuarios%20para%20ftp.png)
+
+agora com o usuarios e senhas criado vamos usar o medusa
+
+![medusa](imagens/ftp/rodando%20o%20medusa.png)
