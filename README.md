@@ -50,5 +50,10 @@ aqui medusa esta verificando um brecha de login
 ![medusa](imagens/ftp/rodando%20o%20medusa.png)
 ![medusa](imagens/ftp/Captura%20de%20tela%202026-11-15%20122155.png)
 agora voltamos para ftp
+login com sucesso
 ![acesso](imagens/ftp/acesso%20ao%20ftp%20com%20sucesso.png)
 
+
+DVWA:
+
+AGORA 
