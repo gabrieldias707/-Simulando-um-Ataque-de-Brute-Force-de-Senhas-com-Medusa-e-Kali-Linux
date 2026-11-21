@@ -75,4 +75,17 @@ descobrimos que usuário correto
 voltando no navegador conseguimos acessar o site 
 ![acesso](imagens/dvwa/acesso%20ao%20dvwa.png)
 
+SMB:
+no terminal do kali vamos usar o comando enum4linux 
+![enum4linux](imagens/smb/comado%20enum.png)
+o programa rodando
+![enum4](imagens/smb/usando%20enum.png)
+agora vamos criar usuarios e senhas para smb
+![criando](imagens/smb/criando%20usuarios%20e%20senha%20para%20smb.png)
+
+
+
+
+
+
 
