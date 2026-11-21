@@ -80,12 +80,20 @@ no terminal do kali vamos usar o comando enum4linux
 ![enum4linux](imagens/smb/comado%20enum.png)
 o programa rodando
 ![enum4](imagens/smb/usando%20enum.png)
+
+
 agora vamos criar usuarios e senhas para smb
+
+
 ![criando](imagens/smb/criando%20usuarios%20e%20senha%20para%20smb.png)
 
+agora usaremos o medusa vai procura um usuario valido
 
+![medusa](imagens/smb/usando%20a%20medusa%20para%20acha%20um%20login%20valido%20para%20smb.png)
 
+rodando o medusa 
+![medusa](imagens/smb/fazendo%20a%20procura%20de%20um%20login%20valido%20no%20medusa%20para%20smb.png)
 
-
-
+achamos um login valido
+![login](imagens/smb/entramos%20um%20login%20valido%20para%20acesso%20ao%20smb.png)
 
