@@ -97,3 +97,11 @@ rodando o medusa
 achamos um login valido
 ![login](imagens/smb/entramos%20um%20login%20valido%20para%20acesso%20ao%20smb.png)
 
+usaremos este comando para a smb 
+![](imagens/smb/para%20acessa%20o%20smb.png)
+login que achamos
+![](imagens/smb/colocando%20a%20senha%20do%20login%20encontrador%20smb.png)
+
+pronto smb invadido 
+![](imagens/smb/entrado%20no%20smb.png)
+
